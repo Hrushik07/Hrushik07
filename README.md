@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Hrushik S (@Hrushik07)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" height="400px" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="400px" />
 
 👀 I’m passionate about building web applications and learning new technologies.  
 🌱 Currently learning **Next.js** and **TypeScript** to level up my frontend skills.  
