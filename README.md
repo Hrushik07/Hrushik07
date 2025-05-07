@@ -1,80 +1,35 @@
-import { motion } from 'framer-motion';
-import { FaGithub, FaLinkedin } from 'react-icons/fa';
+# 👋 Hi there, I’m Hrushik S (@Hrushik07)
 
-export default function AboutMe() {
-  return (
-    <div className="p-6 max-w-2xl mx-auto space-y-4 text-gray-800">
-      <motion.div
-        initial={{ opacity: 0, y: 20 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.8 }}
-        className="text-2xl font-bold text-indigo-600"
-      >
-        👋 Hi there, I’m Hrushik S (@Hrushik07)
-      </motion.div>
-      <motion.p
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        transition={{ delay: 0.3, duration: 0.8 }}
-        className="text-lg"
-      >
-        👀 I’m passionate about building web applications and learning new technologies.
-      </motion.p>
-      <motion.p
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        transition={{ delay: 0.5, duration: 0.8 }}
-      >
-        🌱 Currently learning <strong>Next.js</strong> and <strong>TypeScript</strong> to level up my frontend skills.
-      </motion.p>
-      <motion.p
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        transition={{ delay: 0.7, duration: 0.8 }}
-      >
-        💻 Skilled in <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>React.js</strong>, <strong>Redux Toolkit</strong>, <strong>Tailwind CSS</strong>, <strong>Material UI</strong>, and <strong>Axios</strong>.
-      </motion.p>
-      <motion.p
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        transition={{ delay: 0.9, duration: 0.8 }}
-      >
-        🧩 I enjoy turning complex problems into simple, beautiful, and intuitive UIs.
-      </motion.p>
-      <motion.p
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        transition={{ delay: 1.1, duration: 0.8 }}
-      >
-        💞️ Open to collaborating on beginner-friendly open-source projects and frontend apps.
-      </motion.p>
-      <motion.div
-        className="flex items-center space-x-4"
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        transition={{ delay: 1.3, duration: 0.8 }}
-      >
-        📫 Reach me:
-        <a href="https://linkedin.com/in/hrushik-hrush-189040247" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline flex items-center gap-1">
-          <FaLinkedin /> LinkedIn
-        </a>
-        <span>|</span>
-        <a href="mailto:hrushik.017@gmail.com" className="text-red-600 hover:underline">hrushik.017@gmail.com</a>
-      </motion.div>
-      <motion.p
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        transition={{ delay: 1.5, duration: 0.8 }}
-      >
-        😄 Pronouns: <strong>He/Him</strong>
-      </motion.p>
-      <motion.p
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        transition={{ delay: 1.7, duration: 0.8 }}
-      >
-        ⚡ Fun fact: I love solving UI bugs more than solving puzzles 😄
-      </motion.p>
-    </div>
-  );
-}
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" height="400px" />
+
+👀 I’m passionate about building web applications and learning new technologies.  
+🌱 Currently learning **Next.js** and **TypeScript** to level up my frontend skills.  
+💻 Skilled in **HTML**, **CSS**, **JavaScript**, **React.js**, **Redux Toolkit**, **Tailwind CSS**, **Material UI**, and **Axios**.  
+🧩 I enjoy turning complex problems into simple, beautiful, and intuitive UIs.  
+
+💞️ Open to collaborating on beginner-friendly open-source projects and frontend apps.  
+📫 How to reach me: [LinkedIn](https://linkedin.com/in/hrushik-hrush-189040247) | **hrushik.017@gmail.com**  
+😄 Pronouns: He/Him  
+⚡ Fun fact: I love solving UI bugs more than solving puzzles 😄  
+
+---
+
+### 💻 Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Hrushik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hrushik07&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrushik07&layout=compact&theme=radical)
+
+
+
+
