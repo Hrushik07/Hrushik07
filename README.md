@@ -43,7 +43,7 @@
 
 ### 🚀 Featured Project
 
-🔗 [**Loan Calculator App**](https://loan-calculator-kwcm.onrender.com/)  
+🔗 [**Loan Calculator App**](https://novel-assesment.vercel.app/)  
 🛠 Built using:  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
